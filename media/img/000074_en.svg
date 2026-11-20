@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Ein Viertelkreissektor mit Radius 2 Zentimeter besitzt Bogenlänge Pi Zentimeter und Sektorfläche Pi Quadratzentimeter.">
+<title>Quarter circle: arc and area</title>
+<desc>A quarter-circle sector of radius 2 centimetres has arc length π centimetres and sector area π square centimetres.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Quarter circle: arc and area</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">Radius 2 cm, angle 90°</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M296 444 L527 444 A231 231 0 0 0 296 213 Z" fill="#EAF4FF" stroke="#2976BD" stroke-width="3"/>
+<line x1="296" y1="444" x2="527" y2="444" stroke="#243047" stroke-width="3" stroke-linecap="round"/>
+<line x1="296" y1="444" x2="296" y2="213" stroke="#243047" stroke-width="3" stroke-linecap="round"/>
+<text x="401" y="478" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">r = 2 cm</text>
+<text x="320" y="414" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">90°</text>
+<text x="592" y="238" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">Arc length</text>
+<text x="592" y="276" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start">l = π cm ≈ 3.14 cm</text>
+<text x="592" y="360" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">Sector area</text>
+<text x="592" y="400" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start">A = π cm² ≈ 3.14 cm²</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Same number, different units: length (cm) and area (cm²).</text>
+</svg>

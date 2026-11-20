@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="675px" version="1.1" viewBox="0 0 900 675" width="900px">
+  <title>Secant and tangent</title>
+  <desc>Parabola f(x) = x squared. P is at (1, 1), Q at (2, 4). Secant gradient 3, tangent gradient at P = 2.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="675" width="900" x="0" y="0"/>
+  <rect fill="#fff" height="633" rx="18" ry="18" stroke="#c6d5e3" width="856" x="22" y="20"/>
+  <path d="M 40,95 H 860" stroke="#c6d5e3" stroke-width="1"/>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" x="53" y="54">Secant and tangent</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" x="53" y="83">The derivative is a local gradient</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="136.0" x2="136.0" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="136.0" y="569">-0.5</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="227" x2="227" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="227" y="569">0</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="318.0" x2="318.0" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="318.0" y="569">0.5</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="409" x2="409" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="409" y="569">1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="500.0" x2="500.0" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="500.0" y="569">1.5</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="591" x2="591" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="591" y="569">2</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="682.0" x2="682.0" y1="125" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="682.0" y="569">2.5</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="547" y2="547"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="552">-1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="493" y2="493"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="498">0</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="439" y2="439"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="444">1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="385" y2="385"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="390">2</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="331" y2="331"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="336">3</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="277" y2="277"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="282">4</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="223" y2="223"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="228">5</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="135" x2="694" y1="169" y2="169"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="123" y="174">6</text>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="135" x2="701" y1="493" y2="493"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="701" x2="692.4311124663105" y1="493" y2="498.15501371821466"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="701" x2="692.4311124663105" y1="493" y2="487.84498628178534"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="227" x2="227" y1="548" y2="118"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="227" x2="232.15501371821463" y1="118" y2="126.56888753368948"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="227" x2="221.84498628178537" y1="118" y2="126.56888753368946"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="end" x="703" y="595">x</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" x="236" y="111">f(x)</text>
+  <path d="M 136.00,479.50 L 138.73,480.30 L 141.46,481.07 L 144.19,481.82 L 146.92,482.55 L 149.65,483.25 L 152.38,483.92 L 155.11,484.57 L 157.84,485.20 L 160.57,485.81 L 163.30,486.38 L 166.03,486.94 L 168.76,487.47 L 171.49,487.98 L 174.22,488.46 L 176.95,488.92 L 179.68,489.35 L 182.41,489.76 L 185.14,490.14 L 187.87,490.50 L 190.60,490.84 L 193.33,491.15 L 196.06,491.44 L 198.79,491.70 L 201.52,491.94 L 204.25,492.16 L 206.98,492.35 L 209.71,492.51 L 212.44,492.65 L 215.17,492.77 L 217.90,492.87 L 220.63,492.93 L 223.36,492.98 L 226.09,493.00 L 228.82,492.99 L 231.55,492.97 L 234.28,492.91 L 237.01,492.84 L 239.74,492.74 L 242.47,492.61 L 245.20,492.46 L 247.93,492.29 L 250.66,492.09 L 253.39,491.86 L 256.12,491.62 L 258.85,491.35 L 261.58,491.05 L 264.31,490.73 L 267.04,490.39 L 269.77,490.02 L 272.50,489.62 L 275.23,489.21 L 277.96,488.77 L 280.69,488.30 L 283.42,487.81 L 286.15,487.30 L 288.88,486.76 L 291.61,486.19 L 294.34,485.61 L 297.07,485.00 L 299.80,484.36 L 302.53,483.70 L 305.26,483.02 L 307.99,482.31 L 310.72,481.57 L 313.45,480.82 L 316.18,480.03 L 318.91,479.23 L 321.64,478.40 L 324.37,477.54 L 327.10,476.67 L 329.83,475.76 L 332.56,474.83 L 335.29,473.88 L 338.02,472.91 L 340.75,471.91 L 343.48,470.88 L 346.21,469.83 L 348.94,468.76 L 351.67,467.66 L 354.40,466.54 L 357.13,465.39 L 359.86,464.22 L 362.59,463.03 L 365.32,461.81 L 368.05,460.57 L 370.78,459.30 L 373.51,458.01 L 376.24,456.69 L 378.97,455.35 L 381.70,453.99 L 384.43,452.60 L 387.16,451.18 L 389.89,449.74 L 392.62,448.28 L 395.35,446.80 L 398.08,445.29 L 400.81,443.75 L 403.54,442.19 L 406.27,440.61 L 409.00,439.00 L 411.73,437.37 L 414.46,435.71 L 417.19,434.03 L 419.92,432.33 L 422.65,430.60 L 425.38,428.84 L 428.11,427.06 L 430.84,425.26 L 433.57,423.44 L 436.30,421.59 L 439.03,419.71 L 441.76,417.81 L 444.49,415.89 L 447.22,413.94 L 449.95,411.97 L 452.68,409.97 L 455.41,407.95 L 458.14,405.90 L 460.87,403.83 L 463.60,401.74 L 466.33,399.62 L 469.06,397.48 L 471.79,395.31 L 474.52,393.12 L 477.25,390.91 L 479.98,388.67 L 482.71,386.40 L 485.44,384.11 L 488.17,381.80 L 490.90,379.47 L 493.63,377.10 L 496.36,374.72 L 499.09,372.31 L 501.82,369.87 L 504.55,367.42 L 507.28,364.93 L 510.01,362.43 L 512.74,359.90 L 515.47,357.34 L 518.20,354.76 L 520.93,352.16 L 523.66,349.53 L 526.39,346.87 L 529.12,344.20 L 531.85,341.50 L 534.58,338.77 L 537.31,336.02 L 540.04,333.25 L 542.77,330.45 L 545.50,327.62 L 548.23,324.78 L 550.96,321.91 L 553.69,319.01 L 556.42,316.09 L 559.15,313.15 L 561.88,310.18 L 564.61,307.18 L 567.34,304.17 L 570.07,301.13 L 572.80,298.06 L 575.53,294.97 L 578.26,291.86 L 580.99,288.72 L 583.72,285.55 L 586.45,282.37 L 589.18,279.15 L 591.91,275.92 L 594.64,272.66 L 597.37,269.37 L 600.10,266.07 L 602.83,262.73 L 605.56,259.37 L 608.29,255.99 L 611.02,252.59 L 613.75,249.16 L 616.48,245.70 L 619.21,242.22 L 621.94,238.72 L 624.67,235.19 L 627.40,231.64 L 630.13,228.06 L 632.86,224.46 L 635.59,220.84 L 638.32,217.19 L 641.05,213.52 L 643.78,209.82 L 646.51,206.10 L 649.24,202.35 L 651.97,198.58 L 654.70,194.78 L 657.43,190.97 L 660.16,187.12 L 662.89,183.25 L 665.62,179.36 L 668.35,175.45 L 671.08,171.51 L 673.81,167.54 L 676.54,163.55 L 679.27,159.54 L 682.00,155.50" fill="none" opacity="1" stroke="#245db4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M 208.80,557.80 L 691.10,271.60" fill="none" opacity="1" stroke="#13846e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M 281.60,552.40 L 691.10,187.90" fill="none" opacity="1" stroke="#b65c17" stroke-dasharray="10 6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <circle cx="409" cy="439" fill="#13846e" r="7" stroke="#fff" stroke-width="1.7"/>
+  <circle cx="591" cy="277" fill="#b65c17" r="7" stroke="#fff" stroke-width="1.7"/>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="396" y="467">P(1|1)</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="603" y="265">Q(2|4)</text>
+  <rect fill="#e9f1fc" height="169" rx="12" stroke="#c6d5e3" stroke-width="1" width="151" x="701" y="167"/>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" x="716" y="198">f(x) = x²</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="716" y="231">Secant:</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="716" y="250">m = 3</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="716" y="286">Tangent at P:</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="716" y="310">f'(1) = 2</text>
+  <line opacity="1" stroke="#c6d5e3" stroke-linecap="round" stroke-width="1" x1="53" x2="847" y1="607" y2="607"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="54" y="631">Secant: (4 − 1)/(2 − 1) = 3</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="end" x="846" y="631">Tangent at x = 1: 2x = 2</text>
+</svg>

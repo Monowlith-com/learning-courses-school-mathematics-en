@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Beide Geraden schneiden sich exakt bei (4,3) und lösen so das lineare Gleichungssystem.">
+<title>Two lines, one solution</title>
+<desc>The two lines intersect at exactly (4, 3), solving the simultaneous linear equations.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Two lines, one solution</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">y = 7 − x and y = 11 − 2x</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="147" y1="496" x2="840" y2="496" stroke="#243047" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arr)"/>
+<line x1="158" y1="502" x2="158" y2="145" stroke="#243047" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="158" y="524" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle">0</text>
+<text x="304" y="524" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle">2</text>
+<text x="450" y="524" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle">4</text>
+<text x="596" y="524" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle">6</text>
+<text x="742" y="524" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle">8</text>
+<text x="138" y="502" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">0</text>
+<text x="138" y="436" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">2</text>
+<text x="138" y="370" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">4</text>
+<text x="138" y="304" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">6</text>
+<text x="138" y="238" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">8</text>
+<text x="138" y="172" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">10</text>
+<line x1="158" y1="265" x2="669" y2="496" stroke="#2976BD" stroke-width="4" stroke-linecap="round"/>
+<line x1="194.5" y1="166" x2="559.5" y2="496" stroke="#8793A6" stroke-width="4" stroke-linecap="round"/>
+<circle cx="450" cy="397" r="9" fill="#2976BD" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="450" y1="397" x2="450" y2="496" stroke="#8793A6" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="7 5"/>
+<line x1="158" y1="397" x2="450" y2="397" stroke="#8793A6" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="7 5"/>
+<text x="695" y="214" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">y = 7 − x</text>
+<text x="630" y="313" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="start">y = 11 − 2x</text>
+<rect x="562" y="394" width="294" height="54" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="709" y="430" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Intersection (4; 3)</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Check: 4 + 3 = 7 and 2 · 4 + 3 = 11.</text>
+</svg>

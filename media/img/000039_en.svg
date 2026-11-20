@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" height="675px" version="1.1" viewBox="0 0 900 675" width="900px">
+  <title>Pythagoras’ theorem</title>
+  <desc>Right-angled triangle with shorter sides a = 4 and b = 3 and hypotenuse c = 5. The squares on the shorter sides have areas 16 and 9; the square on the hypotenuse has area 25.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="675" width="900" x="0" y="0"/>
+  <rect fill="#fff" height="633" rx="18" ry="18" stroke="#c6d5e3" width="856" x="22" y="20"/>
+  <path d="M 40,95 H 860" stroke="#c6d5e3" stroke-width="1"/>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" x="53" y="54">Pythagoras’ theorem</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" x="53" y="83">Three sides and three squares</text>
+  <polygon fill="#daeafc" fill-opacity="0.82" points="330,420 482,420 482,572 330,572" stroke="#245db4" stroke-width="2"/>
+  <polygon fill="#fff0d9" fill-opacity="0.82" points="330,420 330,306 216,306 216,420" stroke="#b65c17" stroke-width="2"/>
+  <polygon fill="#d7f3e8" fill-opacity="0.84" points="482,420 330,306 444,154 596,268" stroke="#13846e" stroke-width="2"/>
+  <polygon fill="#fff" fill-opacity="1" points="330,420 482,420 330,306" stroke="#1b3048" stroke-width="3"/>
+  <path d="M 330.00,403.00 L 347.00,403.00 L 347.00,420.00" fill="none" opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle" x="406" y="407">a = 4</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="end" x="328" y="287">b = 3</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="507" y="370">c = 5</text>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" x="406" y="509">a² = 16</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" x="273" y="365">b² = 9</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" x="476" y="242">c² = 25</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" x="355" y="393">90°</text>
+  <rect fill="#e9f1fc" height="122" rx="12" stroke="#c6d5e3" stroke-width="1" width="205" x="642" y="276"/>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" x="744" y="309">a² + b² = c²</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" x="744" y="347">16 + 9 = 25</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="middle" x="744" y="375">Only at 90°</text>
+  <line opacity="1" stroke="#c6d5e3" stroke-linecap="round" stroke-width="1" x1="53" x2="847" y1="607" y2="607"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="54" y="631">Scale: 38 pixels per unit of length</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="end" x="846" y="631">Squares are to scale by area</text>
+</svg>

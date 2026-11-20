@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" height="675px" version="1.1" viewBox="0 0 900 675" width="900px">
+  <title>Sine, cosine and tangent</title>
+  <desc>Right-angled triangle with alpha at B, opposite side a = 3, adjacent side b = 4 and hypotenuse c = 5. Sine alpha = 3/5, cosine = 4/5 and tangent = 3/4.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="675" width="900" x="0" y="0"/>
+  <rect fill="#fff" height="633" rx="18" ry="18" stroke="#c6d5e3" width="856" x="22" y="20"/>
+  <path d="M 40,95 H 860" stroke="#c6d5e3" stroke-width="1"/>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" x="53" y="54">Sine, cosine and tangent</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" x="53" y="83">Side ratios in a right-angled triangle</text>
+  <polygon fill="#daeafc" fill-opacity="0.4" points="195,517 595,517 195,217" stroke="none" stroke-width="2"/>
+  <path d="M 195.00,517.00 L 595.00,517.00 L 195.00,217.00 L 195.00,517.00" fill="none" opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M 195.00,485.00 L 227.00,485.00 L 227.00,517.00" fill="none" opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M 537,517 A 58,58 0 0 1 548.6,482.2" fill="none" stroke="#b65c17" stroke-width="3"/>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" x="541" y="470">α</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="171" y="544">A</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="603" y="544">B</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="165" y="206">C</text>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle" x="395" y="550">b = 4  (adjacent)</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" text-anchor="end" x="180" y="366">a = 3</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="end" x="178" y="386">(opposite)</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="420" y="331">c = 5</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" x="238" y="495">90°</text>
+  <rect fill="#e9f1fc" height="228" rx="12" stroke="#c6d5e3" stroke-width="1" width="202" x="656" y="195"/>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="674" y="228">For angle α:</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="674" y="279">sin α = 3/5</text>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="674" y="330">cos α = 4/5</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" x="674" y="380">tan α = 3/4</text>
+  <line opacity="1" stroke="#c6d5e3" stroke-linecap="round" stroke-width="1" x1="53" x2="847" y1="607" y2="607"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="54" y="631">All three ratios refer to the same angle α</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="end" x="846" y="631">Right angle at A</text>
+</svg>

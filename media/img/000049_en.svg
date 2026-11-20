@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Zahlenstrahl von minus vier bis plus vier. Von minus drei führen fünf Schritte nach rechts bis plus zwei. Der Betrag von minus drei ist drei.">
+<title>Number line and signs</title>
+<desc>Number line from −4 to +4. Five steps to the right from −3 reach +2. The absolute value of −3 is 3.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Number line and signs</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">A move of five units to the right</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="110" y1="300" x2="862" y2="300" stroke="#243047" stroke-width="3" stroke-linecap="round"/>
+<line x1="856" y1="292" x2="865" y2="300" stroke="#243047" stroke-width="3" stroke-linecap="round"/>
+<line x1="856" y1="308" x2="865" y2="300" stroke="#243047" stroke-width="3" stroke-linecap="round"/>
+<line x1="128" y1="288" x2="128" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="128" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">−4</text>
+<line x1="216" y1="288" x2="216" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="216" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">−3</text>
+<line x1="304" y1="288" x2="304" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="304" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">−2</text>
+<line x1="392" y1="288" x2="392" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="392" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">−1</text>
+<line x1="480" y1="288" x2="480" y2="312" stroke="#243047" stroke-width="2" stroke-linecap="round"/>
+<text x="480" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="middle">0</text>
+<line x1="568" y1="288" x2="568" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="568" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">1</text>
+<line x1="656" y1="288" x2="656" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="656" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">2</text>
+<line x1="744" y1="288" x2="744" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="744" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">3</text>
+<line x1="832" y1="288" x2="832" y2="312" stroke="#8793A6" stroke-width="2" stroke-linecap="round"/>
+<text x="832" y="341" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle">4</text>
+<line x1="216" y1="244" x2="656" y2="244" stroke="#2976BD" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="436.0" y="225" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="middle">5 steps: −3 + 5 = 2</text>
+<circle cx="216" cy="300" r="9" fill="#2976BD" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="656" cy="300" r="9" fill="#2976BD" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="216" y1="390" x2="480" y2="390" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="216" y1="380" x2="216" y2="400" stroke="#2976BD" stroke-width="2" stroke-linecap="round"/>
+<line x1="480" y1="380" x2="480" y2="400" stroke="#2976BD" stroke-width="2" stroke-linecap="round"/>
+<text x="348.0" y="427" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="middle">|−3| = 3</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Values increase to the right; absolute value measures distance from zero.</text>
+</svg>

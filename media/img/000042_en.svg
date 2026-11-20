@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="675px" version="1.1" viewBox="0 0 900 675" width="900px">
+  <title>Definite integral: signed area</title>
+  <desc>Line f(x) = x − 1 from x = 0 to x = 3. Negative triangular area −0.5, positive triangular area +2; integral +1.5.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="675" width="900" x="0" y="0"/>
+  <rect fill="#fff" height="633" rx="18" ry="18" stroke="#c6d5e3" width="856" x="22" y="20"/>
+  <path d="M 40,95 H 860" stroke="#c6d5e3" stroke-width="1"/>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" x="53" y="54">Definite integral: signed area</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" x="53" y="83">Positive above the axis, negative below</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="204" x2="204" y1="134" y2="542"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="204" y="563">0</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="338" x2="338" y1="134" y2="542"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="338" y="563">1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="472" x2="472" y1="134" y2="542"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="472" y="563">2</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="606" x2="606" y1="134" y2="542"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="606" y="563">3</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="145" x2="715" y1="478" y2="478"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="133" y="483">-1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="145" x2="715" y1="405" y2="405"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="133" y="410">0</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="145" x2="715" y1="332" y2="332"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="133" y="337">1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="145" x2="715" y1="259" y2="259"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="133" y="264">2</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="145" x2="715" y1="186" y2="186"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="133" y="191">3</text>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="145" x2="722" y1="405" y2="405"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="722" x2="713.4311124663105" y1="405" y2="410.15501371821466"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="722" x2="713.4311124663105" y1="405" y2="399.84498628178534"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="204" x2="204" y1="542" y2="127"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="204" x2="209.15501371821463" y1="127" y2="135.56888753368946"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="204" x2="198.84498628178537" y1="127" y2="135.56888753368946"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="end" x="724" y="589">x</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" x="213" y="120">f(x)</text>
+  <polygon fill="#fce0e9" fill-opacity="0.88" points="204,405 204,478 338,405" stroke="none" stroke-width="2"/>
+  <polygon fill="#d7f3e8" fill-opacity="0.9" points="338,405 606,259 606,405" stroke="none" stroke-width="2"/>
+  <path d="M 163.80,499.90 L 699.80,207.90" fill="none" opacity="1" stroke="#245db4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <circle cx="204" cy="478" fill="#245db4" r="5" stroke="#fff" stroke-width="1.7"/>
+  <circle cx="338" cy="405" fill="#245db4" r="5" stroke="#fff" stroke-width="1.7"/>
+  <circle cx="606" cy="259" fill="#245db4" r="5" stroke="#fff" stroke-width="1.7"/>
+  <line opacity="1" stroke="#13846e" stroke-dasharray="5 4" stroke-linecap="round" stroke-width="2" x1="606" x2="606" y1="405" y2="259"/>
+  <text fill="#b23851" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" x="248.22" y="445.15">− 0.5</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle" x="505.5" y="357.55">+ 2</text>
+  <rect fill="#e9f1fc" height="142" rx="12" stroke="#c6d5e3" stroke-width="1" width="132" x="725" y="185"/>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" x="740" y="217">f(x)=x−1</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" x="740" y="253">Net area:</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" x="740" y="277">−0.5 + 2</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" x="740" y="305">= +1.5</text>
+  <line opacity="1" stroke="#c6d5e3" stroke-linecap="round" stroke-width="1" x1="53" x2="847" y1="607" y2="607"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="54" y="631">Interval [0,3] · negative on left, positive on right</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="end" x="846" y="631">Value: ∫₀³ (x−1) dx = 1.5</text>
+</svg>

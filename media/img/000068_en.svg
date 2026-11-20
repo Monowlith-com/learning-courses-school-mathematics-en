@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Projektion der Ebene mit Stützpunkt P, zwei unabhängigen Richtungsvektoren u und v sowie Zielpunkt bei s gleich 2 und t gleich 3.">
+<title>Parametric equation of a plane</title>
+<desc>Projection of a plane with reference point P, two independent direction vectors u and v, and the target point at s = 2 and t = 3.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Parametric equation of a plane</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">P + s·u + t·v with two independent directions</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="253,406 478,326 613,421 388,501" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="2"/>
+<line x1="253" y1="406" x2="478" y2="326" stroke="#2976BD" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<line x1="253" y1="406" x2="388" y2="501" stroke="#8793A6" stroke-width="4" stroke-linecap="round" marker-end="url(#arrg)"/>
+<line x1="478" y1="326" x2="613" y2="421" stroke="#8793A6" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 6"/>
+<line x1="388" y1="501" x2="613" y2="421" stroke="#8793A6" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 6"/>
+<circle cx="253" cy="406" r="8" fill="#2976BD" stroke="#FFFFFF" stroke-width="3"/>
+<text x="234" y="388" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">P</text>
+<circle cx="613" cy="421" r="8" fill="#2976BD" stroke="#FFFFFF" stroke-width="3"/>
+<text x="628" y="410" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">X(2,3)</text>
+<text x="365" y="310" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">2u</text>
+<text x="291" y="473" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">3v</text>
+<rect x="136" y="165" width="695" height="69" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="482" y="207" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">X = (1,0,2) + s(1,0,0) + t(0,1,1)</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">For s = 2, t = 3, X = (3,3,5); schematic perspective drawing.</text>
+</svg>

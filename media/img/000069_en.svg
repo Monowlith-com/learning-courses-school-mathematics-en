@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Bei rechtshändigen Achsen ist der Kreuzproduktvektor der x- und y-Einheitsvektoren senkrecht auf beiden und zeigt nach oben.">
+<title>Cross product in a right-handed system</title>
+<desc>With right-handed axes, the cross product of the x and y unit vectors is perpendicular to both and points upwards.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Cross product in a right-handed system</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">(1,0,0) × (0,1,0) = (0,0,1)</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="442" y1="430" x2="655" y2="481" stroke="#2976BD" stroke-width="5" stroke-linecap="round" marker-end="url(#arr)"/>
+<line x1="442" y1="430" x2="239" y2="490" stroke="#8793A6" stroke-width="5" stroke-linecap="round" marker-end="url(#arrg)"/>
+<line x1="442" y1="430" x2="442" y2="189" stroke="#243047" stroke-width="5" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="665" y="490" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="start">u = (1, 0, 0)</text>
+<text x="110" y="517" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="start">v = (0, 1, 0)</text>
+<text x="475" y="175" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">u × v = (0, 0, 1)</text>
+<rect x="152" y="217" width="210" height="66" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="258" y="256" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">u · (u × v) = 0</text>
+<rect x="603" y="297" width="230" height="66" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="718" y="336" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">v · (u × v) = 0</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Isometric sketch: the spatial right angles appear in projection.</text>
+</svg>

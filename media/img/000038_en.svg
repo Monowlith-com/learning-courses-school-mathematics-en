@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="675px" version="1.1" viewBox="0 0 900 675" width="900px">
+  <title>Linear function: gradient and initial value</title>
+  <desc>The model line y = 2x + 3. Initial value 3 at x = 0; the gradient triangle has delta x = 2 and delta y = 4.</desc>
+  <defs/>
+  <rect fill="#ffffff" height="675" width="900" x="0" y="0"/>
+  <rect fill="#fff" height="633" rx="18" ry="18" stroke="#c6d5e3" width="856" x="22" y="20"/>
+  <path d="M 40,95 H 860" stroke="#c6d5e3" stroke-width="1"/>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" x="53" y="54">Linear function: gradient and initial value</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" x="53" y="83">A data set grows at a steady rate</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="155" x2="155" y1="133" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="155" y="569">0</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="263" x2="263" y1="133" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="263" y="569">1</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="371" x2="371" y1="133" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="371" y="569">2</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="479" x2="479" y1="133" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="479" y="569">3</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="587" x2="587" y1="133" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="587" y="569">4</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="695" x2="695" y1="133" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="695" y="569">5</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="548" y2="548"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="553">0</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="492" y2="492"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="497">2</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="436" y2="436"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="441">4</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="380" y2="380"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="385">6</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="324" y2="324"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="329">8</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="268" y2="268"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="273">10</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="212" y2="212"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="217">12</text>
+  <line opacity="1" stroke="#e3ebf2" stroke-linecap="round" stroke-width="1" x1="140" x2="695" y1="156" y2="156"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="end" x="128" y="161">14</text>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="140" x2="702" y1="548" y2="548"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="702" x2="693.4311124663105" y1="548" y2="553.1550137182146"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="702" x2="693.4311124663105" y1="548" y2="542.8449862817854"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="155" x2="155" y1="548" y2="126"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="155" x2="160.15501371821463" y1="126" y2="134.56888753368946"/>
+  <line opacity="1" stroke="#1b3048" stroke-linecap="round" stroke-width="2" x1="155" x2="149.84498628178537" y1="126" y2="134.56888753368946"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" text-anchor="end" x="704" y="595">Time x (min)</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" x="164" y="119">Count y</text>
+  <path d="M 155.00,464.00 L 165.80,458.40 L 176.60,452.80 L 187.40,447.20 L 198.20,441.60 L 209.00,436.00 L 219.80,430.40 L 230.60,424.80 L 241.40,419.20 L 252.20,413.60 L 263.00,408.00 L 273.80,402.40 L 284.60,396.80 L 295.40,391.20 L 306.20,385.60 L 317.00,380.00 L 327.80,374.40 L 338.60,368.80 L 349.40,363.20 L 360.20,357.60 L 371.00,352.00 L 381.80,346.40 L 392.60,340.80 L 403.40,335.20 L 414.20,329.60 L 425.00,324.00 L 435.80,318.40 L 446.60,312.80 L 457.40,307.20 L 468.20,301.60 L 479.00,296.00 L 489.80,290.40 L 500.60,284.80 L 511.40,279.20 L 522.20,273.60 L 533.00,268.00 L 543.80,262.40 L 554.60,256.80 L 565.40,251.20 L 576.20,245.60 L 587.00,240.00 L 597.80,234.40 L 608.60,228.80 L 619.40,223.20 L 630.20,217.60 L 641.00,212.00 L 651.80,206.40 L 662.60,200.80 L 673.40,195.20 L 684.20,189.60 L 695.00,184.00" fill="none" opacity="1" stroke="#245db4" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <circle cx="155" cy="464" fill="#13846e" r="7" stroke="#fff" stroke-width="1.7"/>
+  <polygon fill="#fff0d9" fill-opacity="0.75" points="263,408 479,408 479,296" stroke="none" stroke-width="2"/>
+  <line opacity="1" stroke="#b65c17" stroke-dasharray="6 4" stroke-linecap="round" stroke-width="3" x1="263" x2="479" y1="408" y2="408"/>
+  <line opacity="1" stroke="#b65c17" stroke-dasharray="6 4" stroke-linecap="round" stroke-width="3" x1="479" x2="479" y1="408" y2="296"/>
+  <circle cx="263" cy="408" fill="#245db4" r="5" stroke="#fff" stroke-width="1.7"/>
+  <circle cx="479" cy="296" fill="#245db4" r="5" stroke="#fff" stroke-width="1.7"/>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle" x="371" y="432">Δx = 2</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="495" y="352">Δy = 4</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" x="165" y="454">b = 3</text>
+  <rect fill="#e9f1fc" height="142" rx="12" stroke="#c6d5e3" stroke-width="1" width="125" x="723" y="186"/>
+  <text fill="#245db4" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle" x="785" y="220">y = 2x + 3</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="736" y="254">Gradient:</text>
+  <text fill="#b65c17" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" x="736" y="275">m = 4/2 = 2</text>
+  <text fill="#1b3048" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="736" y="306">Initial value:</text>
+  <text fill="#13846e" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" x="736" y="326">b = 3</text>
+  <line opacity="1" stroke="#c6d5e3" stroke-linecap="round" stroke-width="1" x1="53" x2="847" y1="607" y2="607"/>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" x="54" y="631">x: minutes · y: number of records</text>
+  <text fill="#4f657c" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="end" x="846" y="631">Example with a constant increase</text>
+</svg>

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Vier gleich große Bruchteile, drei davon blau markiert: 3/4 entspricht 0,75 und 75 Prozent. Auf einem 10 mal 10 Raster sind 75 von 100 Zellen blau.">
+<title>Fractions, decimals and percentages</title>
+<desc>Four equal parts, three coloured blue: 3/4 equals 0.75 or 75 per cent. In a 10 by 10 grid, 75 out of 100 cells are blue.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Fractions, decimals and percentages</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">Three quarters of the same whole</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<text x="62" y="156" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">Fraction strip</text>
+<rect x="68" y="200" width="100" height="110" rx="0" fill="#2976BD" stroke="#CBD5E1" stroke-width="2"/>
+<rect x="168" y="200" width="100" height="110" rx="0" fill="#2976BD" stroke="#CBD5E1" stroke-width="2"/>
+<rect x="268" y="200" width="100" height="110" rx="0" fill="#2976BD" stroke="#CBD5E1" stroke-width="2"/>
+<rect x="368" y="200" width="100" height="110" rx="0" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+<text x="268" y="347" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">3 / 4 = 0.75</text>
+<text x="560" y="156" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">Percentage grid: 75 of 100</text>
+<rect x="577" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="184" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="212" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="240" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="268" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="296" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="324" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="352" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="380" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="380" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="380" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="380" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="380" width="26" height="26" rx="0" fill="#2976BD" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="380" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="380" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="380" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="380" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="380" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="408" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="577" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="605" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="633" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="661" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="689" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="717" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="745" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="773" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="801" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<rect x="829" y="436" width="26" height="26" rx="0" fill="#F5F8FC" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="724" y="500" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">75 %</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Always count equal parts; 75% means 75 hundredths.</text>
+</svg>
