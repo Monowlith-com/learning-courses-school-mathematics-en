@@ -2,9 +2,9 @@
 document_id: "school_mathematics_en:sources"
 series_id: "school_mathematics_en:_index"
 series_part: 55
-document_version: "0.1.3"
+document_version: "0.1.4"
 created: "2026-11-19"
-updated: "2026-11-24"
+updated: "2026-11-25"
 title: "Sources"
 author: "Stephan Kühn"
 document_type: "Supporting material"
@@ -25,10 +25,10 @@ license: "CC BY-NC-SA 4.0 International"
 
 External sources are listed separately for each course. Lesson pages and navigation work offline; external links require an internet connection.
 
-**1 distinct URL** in **1 lesson** containing external web references.
+**Legacy inventory:** **1 distinct URL** in **1 lesson** containing external web references.
 
 1.  [M2-L10 – Advanced calculus and selected advanced-course (Leistungskurs) topics](../M2-L10.md)
-    - [https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/abitur/ps_mathematik_2026_lk.pdf](https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/abitur/ps_mathematik_2026_lk.pdf){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"}
+    - [Berlin – Prüfungsschwerpunkte Mathematik, Abitur 2026, Leistungskurs](https://www.berlin.de/sen/bildung/schule/pruefungen-und-abschluesse/abitur/ps_mathematik_2026_lk.pdf){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"} · S10: Berlin advanced-level mathematics; examination scope, first page inspected · Last accessed: 2026-11-22
 
 ## Sources for the additional lessons {#S1}
 
